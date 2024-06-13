@@ -8,10 +8,10 @@ Mata Kuliah : Pemgraman Web 2
 
 Tugas : Praktikum 7
 
-![gambar](![Codeigniter](https://github.com/Nadiatulumah2/Pratikum-7-web/assets/129835302/3a570c6e-ac47-4547-931e-3a7a645ce9ce)
+(![Codeigniter](https://github.com/Nadiatulumah2/Pratikum-7-web/assets/129835302/3a570c6e-ac47-4547-931e-3a7a645ce9ce)
 )
 
-![gambar] ![postman_logo](https://github.com/Nadiatulumah2/Pratikum-7-web/assets/129835302/8de6fda4-3aca-491f-bd54-dc153f857772)
+ ![postman_logo](https://github.com/Nadiatulumah2/Pratikum-7-web/assets/129835302/8de6fda4-3aca-491f-bd54-dc153f857772)
 
 
 # <p align="center">Praktikum 12: API</p>
